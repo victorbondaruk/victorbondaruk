@@ -181,10 +181,9 @@
 </a>
 </p>
 <br>
-<img src="https://komarev.com/ghpvc/?username=victorbondaruk" alt="https://github.com/victorbondaruk" />
-<br>
 <p align='right'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=victorbondaruk?style=for-the-badge&logo=appveyor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=victorbondaruk" alt="https://github.com/victorbondaruk" />
+  <!-- <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=victorbondaruk?style=for-the-badge&logo=appveyor" /></a> -->
 </p>
 <!--END_SECTION:badges-->
 <br>
